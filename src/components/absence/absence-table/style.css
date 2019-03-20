@@ -1,0 +1,13 @@
+.width80 {
+    min-width: 80px;
+}
+
+.approved {
+    min-width: 40px;
+}
+
+.reason {
+    min-width: 200px;
+}
+
+
