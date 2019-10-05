@@ -21,7 +21,7 @@
   ],
   "devDependencies": {
     "eslint": "4.19.1",
-    "eslint-config-synacor": "3.0.3",
+    "eslint-config-synacor": "3.0.5",
     "identity-obj-proxy": "3.0.0",
     "per-env": "1.0.2",
     "jest": "21.2.1",
