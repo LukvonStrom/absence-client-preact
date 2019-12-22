@@ -20,7 +20,7 @@
     "build/*"
   ],
   "devDependencies": {
-    "eslint": "4.19.1",
+    "eslint": "6.8.0",
     "eslint-config-synacor": "3.0.3",
     "identity-obj-proxy": "3.0.0",
     "per-env": "1.0.2",
