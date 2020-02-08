@@ -31,7 +31,7 @@
   "dependencies": {
     "preact": "8.4.2",
     "preact-compat": "3.18.4",
-    "preact-router": "2.6.1"
+    "preact-router": "3.2.1"
   },
   "jest": {
     "verbose": true,
